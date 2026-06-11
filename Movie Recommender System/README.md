@@ -1,5 +1,3 @@
-Based on your uploaded **Movie Recommender System** project, you can use the following professional GitHub README:
-
 # 🎬 Movie Recommender System
 
 A content-based Movie Recommender System built using Python, Pandas, Scikit-Learn, and Streamlit. The application recommends similar movies based on movie features and displays movie posters using the TMDB API.
@@ -44,27 +42,6 @@ Movie-Recommender-System/
 5. The similarity matrix is stored for fast recommendations.
 6. Streamlit provides a user-friendly interface for selecting movies and viewing recommendations.
 
-## ⚙️ Installation
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/your-username/movie-recommender-system.git
-cd movie-recommender-system
-```
-
-### Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### Run the Application
-
-```bash
-streamlit run app.py
-```
-
 ## 🎥 Demo
 
 Select a movie from the dropdown menu and click **Recommend** to receive five similar movie suggestions along with their posters.
@@ -105,15 +82,3 @@ Recommendations:
 * User Authentication
 * Movie Ratings Integration
 * Deployment on AWS/Render/Streamlit Cloud
-
-## 👨‍💻 Author
-
-**Aditya Kulange**
-
-Aspiring Data Scientist | Machine Learning Enthusiast | Python Developer
-
-## ⭐ If you found this project useful, don't forget to star the repository!
-
----
-
-For job applications and interviews, this README looks professional and clearly demonstrates your understanding of **Machine Learning, NLP, Recommendation Systems, Streamlit, and API Integration**.
